@@ -1,4 +1,7 @@
 # Logs
+.idea
+.env
+node_modules
 logs
 *.log
 npm-debug.log*
@@ -66,7 +69,6 @@ web_modules/
 .yarn-integrity
 
 # dotenv environment variable files
-.env
 .env.*
 !.env.example
 
